@@ -1,0 +1,40 @@
+h1{
+    font-family: "Times New Roman", sans-serif ;
+    text-align: center;
+    padding: 10px;
+    border-radius: 10px;
+    margin: auto;
+    background-color: #5db8f8;
+    width: 350px;
+    color: white;
+}
+.calculator {
+    padding: 30px;
+    border-radius: 30px;
+    border: solid rgba(25, 129, 166, 0.45) 5px;
+    height: 520px;
+    width: 400px;
+    margin: auto;
+    background-color: rgba(25, 129, 166, 0.62);
+}
+
+.display-box {
+    font-family: "Baloo Tammudu 2", sans-serif;
+    font-size: 35px;
+    background-color: rgba(255, 255, 255, 0.72);
+    border-radius: 10px;
+    width:97%;
+    height: 75%;
+}
+
+input[type=button] {
+    font-family: "Baloo Tammudu 2", sans-serif;
+    font-size: 15px;
+    background-color: rgba(98, 96, 96, 0.63);
+    color: white;
+    border: solid #c2b9b9 3px;
+    width: 100%;
+    border-radius: 5px;
+    height: 90%;
+    outline: none;
+}
